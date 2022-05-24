@@ -3,3 +3,4 @@ data/ky_estdata_full.csv
 data/ky_estdata_full_2017.csv
 examples
 .ipynb_checkpoints
+data/ky_estdata.csv
